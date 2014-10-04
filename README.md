@@ -1,7 +1,7 @@
 prusa-i3-rework-xxl
 ===================
 
-Dérivation de l'imprimante 3D PRUSA i3 Rework en version agrandie à base de tige filetée uniquement
+Dérivation de l'imprimante 3D PRUSA i3 Rework <http://reprap.org/wiki/Prusa_i3_Rework_Introduction/fr> en version agrandie à base de tige filetée uniquement
 
 Ayant effectué le montage d'une imprimante 3D PRUSA i3 Rework pour un copain, je me suis dit que la mienne je la voudrais extensible en taille le plus facilement possible.
 
@@ -22,7 +22,7 @@ Amélioration par rapport à la prusa i3 rework :
 - les trois axes X, Y et Z peuvent être agrandis à volonté;
 - amélioration de la transmission du mouvement pour l'axe Z
 - amélioration de la tête d'impression (permet en changeant un minimum de pièce de passer du filament 3mm a 1,75 par exemple)
-- mise en place de l'autolevel (pas encore fait). 
+- mise en place de l'autolevel. 
 
 
 
@@ -104,10 +104,10 @@ Listes des pièces :
 <td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/16-Extrudeur.jpg" /></td></tr>
 <tr><td>17-Extrudeur-Adaptateur-Tete		</td>
 <td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/17-Extrudeur-Adaptateur-Tete.jpg" /></td></tr>
-<tr><td>18-Extrudeur-Axe-verrouillage		</td>
-<td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/18-Extrudeur-Axe-verrouillage.jpg" /></td></tr>
-<tr><td>19-Extrudeur-Levier-verrouillage	</td>
-<td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/19-Extrudeur-Levier-verrouillage.jpg" /></td></tr>
+<tr><td>18-Pince-Cote-Extrudeur		</td>
+<td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/18-Pince-Cote-Extrudeur.jpg" /></td></tr>
+<tr><td>19-Pince-Cote-Verrouilleur	</td>
+<td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/19-Pince-Cote-Verrouilleur.jpg" /></td></tr>
 <tr><td>20-Extrudeur-Piece-3mm				</td>
 <td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/20-Extrudeur-Piece-3mm.jpg" /></td></tr>
 <tr><td>21-Extrudeur-Ventilo-Bas			</td>
@@ -116,5 +116,9 @@ Listes des pièces :
 <td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/22-Extrudeur-Ventilo-Haut.jpg" /></td></tr>
 <tr><td>23-Extrudeur-verrouilleur			</td>
 <td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/23-Extrudeur-verrouilleur.jpg" /></td></tr>
+<tr><td>24-Jambe-auto-level			</td>
+<td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/24-Jambe-auto-level.jpg" /></td></tr>
+<tr><td>25-Pince-Accroche			</td>
+<td><img src="https://raw.githubusercontent.com/fran6t/prusa-i3-rework-xxl/master/img/25-Pince-Accroche.jpg" /></td></tr>
 </table>
 
